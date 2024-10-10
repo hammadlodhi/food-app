@@ -1,0 +1,1 @@
+export const homeBanner = 'static/images/pizza.jpg';
